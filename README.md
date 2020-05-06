@@ -47,6 +47,7 @@ my.local.com:8080
 Login with root/root . In the SQL query box, execute below query:
 ```
 ALTER USER 'root'@'% 'IDENTIFIED WITH mysql_native_password BY 'root';
+FLUSH PRIVILEGES;
 ```
 Try accessing *http://my.local.com* again and it should get connected to mysql.
 
