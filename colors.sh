@@ -1,0 +1,7 @@
+red="\e[1;91m"
+green="\e[1;92m"
+yellow="\e[1;93m"
+lightblue="\e[1;96m"
+blue="\e[1;34m"
+reset="\e[0m\n"
+setnew="\e[0m"
