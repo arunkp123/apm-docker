@@ -2,7 +2,7 @@ APMP-DOCKER: Apache+PHP+MySQL+PHPMyAdmin
 ===================================
 
 ### Intro
-This is a simple repo to setup apache, php, mysql phpmyadmin on a docker environment.
+This is a simple repo to setup apache, php, mysql phpmyadmin on a docker environment with just a single command.
 
 ```
 /apm-docker/
