@@ -1,14 +1,10 @@
 # APMP-DOCKER
 ## Apache+PHP+MySQL+PHPMyAdmin
 
-------------
-
-
 
 **Intro**
-This is a simple repo to setup apache, php, mysql phpmyadmin on a docker environment with just a single command.
 
-------------
+This is a simple repo to setup apache, php, mysql phpmyadmin on a docker environment with just a single command.
 
 
 **Folder Structure:**
@@ -40,9 +36,11 @@ Once the setup is completed, try accessing the domain:
 
 
 If you see this error:
-`The server requested authentication method unknown to the client [caching_sha2_password] 
-`
+```
+The server requested authentication method unknown to the client [caching_sha2_password] 
+```
 Go to:
+
 ```
 my.local.com:8080
 ```
