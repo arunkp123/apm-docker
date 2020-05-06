@@ -1,4 +1,4 @@
-Containerize This: PHP/Apache/MySQL
+APMP-DOCKER: Apache+PHP+MySQL+PHPMyAdmin
 ===================================
 
 ### Intro
